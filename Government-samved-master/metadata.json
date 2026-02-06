@@ -1,0 +1,5 @@
+{
+  "name": "Solapur Health Monitoring System",
+  "description": "A comprehensive public health dashboard for Solapur district health officers to monitor disease trends, hospital capacity, and public health alerts.",
+  "requestFramePermissions": []
+}
